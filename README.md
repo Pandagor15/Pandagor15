@@ -9,6 +9,6 @@ I'm a student pursuing a degree in Telecommunications Engineering at the Nationa
 - 📚 Currently, I'm enrolled in the Telecommunications Engineering program at the National University of San Agustin.
 - 💡 I'm interested in topics such as network development, information security, and artificial intelligence applied to communications.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)!
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/diego-marcelo-banda-gutierrez-a80620280/)https://www.linkedin.com/in/diego-marcelo-banda-gutierrez-a80620280/)!
 
 
