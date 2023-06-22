@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Diego! 👋
 
-<!--
-**Pandagor15/Pandagor15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GIF](https://example.com/your_gif.gif)
 
-Here are some ideas to get you started:
+I'm a student pursuing a degree in Telecommunications Engineering at the National University of San Agustin. I'm passionate about the world of telecommunications and excited to learn and contribute in this constantly evolving field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 📚 Currently, I'm enrolled in the Telecommunications Engineering program at the National University of San Agustin.
+- 💡 I'm interested in topics such as network development, information security, and artificial intelligence applied to communications.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)!
+
+
